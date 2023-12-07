@@ -1,0 +1,16 @@
+STATISTICS OF SUBMISSION STATUS UP TO 07/12/2023
+
+| Groups/Projects | Project 1         | Project 3         | 
+|_________________|___________________|___________________|
+| Group 1         | Not Yet Submitted | Not Yet Submitted | 
+|_________________|___________________|___________________|
+| Group 2         | Not Yet Submitted | Not Yet Submitted | 
+|_________________|___________________|___________________|
+| Group 3         | Not Yet Submitted | Not Yet Submitted | 
+|_________________|___________________|___________________|
+| Group 4         | Not Yet Submitted | Not Yet Submitted | 
+|_________________|___________________|___________________|
+| Group 5         | Late              | Not Yet Submitted | 
+|_________________|___________________|___________________|
+| Group 6         | Not Yet Submitted | Not Yet Submitted | 
+|_________________|___________________|___________________|
